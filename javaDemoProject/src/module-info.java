@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jsoni
+ *
+ */
+module javaDemoProject {
+}
